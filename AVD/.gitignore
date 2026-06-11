@@ -1,0 +1,9 @@
+# Never commit real data exports or device lists
+*.csv
+*.txt
+/Temp/
+/TEMP/
+*.log
+
+# Local creds / config
+*.secret
